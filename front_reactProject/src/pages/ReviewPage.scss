@@ -1,0 +1,110 @@
+.review-page {
+  width: 100%;
+  background-color: #f9f9f9;
+
+  .review-container {
+    max-width: 700px;
+    margin: 3rem auto;
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+
+    .title {
+      font-size: 1.6rem;
+      color: #ff6b6b;
+      text-align: center;
+      margin-bottom: 2rem;
+      font-weight: 700;
+    }
+
+    .review-form {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 2rem;
+
+      input {
+        flex: 1;
+        padding: 0.8rem;
+        border: 2px solid #ff6b6b;
+        border-radius: 10px;
+        font-size: 1rem;
+        transition: border-color 0.3s;
+
+        &:focus {
+          outline: none;
+          border-color: #ff8787;
+        }
+      }
+
+      button {
+        background: linear-gradient(135deg, #ff6b6b, #ff8787);
+        color: white;
+        padding: 0 1rem;
+        border: none;
+        border-radius: 10px;
+        font-size: 1.4rem;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        transition: transform 0.2s;
+
+        &:hover {
+          transform: scale(1.05);
+        }
+      }
+    }
+
+    .review-list {
+      .review-item {
+        background: #f2f2f2;
+        padding: 1rem;
+        border-radius: 14px;
+        margin-bottom: 1rem;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+
+        span {
+          display: block;
+          font-size: 1.1rem;
+          margin-bottom: 0.5rem;
+          color: #333;
+        }
+
+        input {
+          width: 100%;
+          padding: 0.6rem;
+          font-size: 1rem;
+          border: 1px solid #ccc;
+          border-radius: 8px;
+          margin-bottom: 0.5rem;
+        }
+      }
+    }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      gap: 0.75rem;
+      margin-top: 2rem;
+
+      button {
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+        cursor: pointer;
+        border: none;
+        border-radius: 6px;
+        background-color: #e0e0e0;
+        transition: background-color 0.3s, color 0.3s;
+
+        &:hover {
+          background-color: #d3d3d3;
+        }
+
+        &.active {
+          background-color: #ff6b6b;
+          color: white;
+        }
+      }
+    }
+  }
+}
