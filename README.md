@@ -7,5 +7,7 @@
      <li>⭐️영화의 대한 리뷰 게시판을 통해 리뷰작성및 수정,삭제,별점 구현</li>
      <li>Route를 이용한 SPA구현</li>
   </ul>
+
+
   [PDF로 보기](chan_project.pdf)
   ![시연 이미지](./assets/demo.gif)
