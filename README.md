@@ -1,4 +1,6 @@
-  <h1>CinemaInfo</h1>
+<h1>프로젝트</h1>
+
+<h2>CinemaInfo</h2>
   <p>TMDB API를 활용한 고성능 SPA영화 정보 제공 사이트 </p>
   <h2>기능</h2>
   <ul>
@@ -8,8 +10,6 @@
      <li>Route를 이용한 SPA구현</li>
   </ul>
 
+[PDF로 보기](chan_project.pdf)
 
-  [PDF로 보기](chan_project.pdf)
-
-   [시연영상!](MovieDemo.gif)
-
+[시연영상!](MovieDemo.gif)
