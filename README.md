@@ -13,3 +13,4 @@
 [PDF로 보기](https://github.com/chanO4135/front_reactProject/blob/main/chan_project.pdf)
 
 [시연영상!](MovieDemo.gif)
+![alt text](image.png)
