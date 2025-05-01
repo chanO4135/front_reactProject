@@ -14,4 +14,35 @@
 
 [시연영상!](MovieDemo.gif)
 
+<h2>플로우차트</h2>
+
 ![플로우차트](image-8.png)
+
+<h2>구현 화면</h2>
+<li>메인 페이지</li>
+
+![메인](image.png)
+
+<p> 장르, 검색어를 통해 원하는 영화를 선택</p>
+
+<li>장르별 영화 선택 및 검색 가능</li>
+
+![alt text](image-5.png)![alt text](image-6.png)
+
+<p>선택된 장르에 영화 표시, 검색된 키워드에 알맞은 영화 표시
+
+<li>인기 영화 페이지</li>
+
+![인기](image-1.png)
+
+<li>영화 상세 정보 페이지</li>
+
+![alt text](image-7.png)
+
+![alt text](image-9.png)
+
+<p>영화 상세정보 및 리뷰 작성</p>
+
+![alt text](image-10.png)
+
+<p>별점 포함 리뷰 수정 및 삭제 가능</p>
