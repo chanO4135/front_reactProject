@@ -22,7 +22,7 @@ React 기반으로 구현되었으며, 다양한 영화 정보와 사용자 리�
 
 ## 🎥 시연 영상
 
-![시연영상](images/MovieDemo.gif)
+![시연영상](MovieDemo.gif)
 
 ---
 
