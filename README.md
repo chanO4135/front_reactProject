@@ -21,7 +21,7 @@
 <h2>구현 화면</h2>
 <li>메인 페이지</li>
 
-![메인](image.png)
+![메인](image.png)![alt text](image.png)
 
 <p> 장르, 검색어를 통해 원하는 영화를 선택</p>
 
