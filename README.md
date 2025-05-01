@@ -12,7 +12,7 @@
 
 [PDF로 보기](https://github.com/chanO4135/front_reactProject/blob/main/chan_project.pdf)
 
-[시연영상!](MovieDemo.gif)
+[시연영상!](/images/MovieDemo.gif)
 
 <h2>플로우차트</h2>
 
