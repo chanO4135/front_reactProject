@@ -14,4 +14,4 @@
 
 [시연영상!](MovieDemo.gif)
 
-![alt text](image-2.png)
+<h2>플로우차트</h2> (image-3.png)
