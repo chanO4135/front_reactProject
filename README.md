@@ -16,7 +16,7 @@ React 기반으로 구현되었으며, 다양한 영화 정보와 사용자 리�
 
 ## 📄 문서 보기
 
-👉 ![PDF로 보기](https://github.com/chanO4135/front_reactProject/blob/main/chan_project.pdf)
+👉 [PDF로 보기](https://github.com/chanO4135/front_reactProject/blob/main/chan_project.pdf)
 
 ---
 
