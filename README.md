@@ -3,6 +3,8 @@
 TMDB API를 활용한 고성능 SPA 영화 정보 제공 사이트입니다.  
 React 기반으로 구현되었으며, 다양한 영화 정보와 사용자 리뷰 기능을 제공합니다.
 
+이 프로젝트는 React 기반 SPA를 통해 외부 API를 활용한 콘텐츠 탐색과, 사용자 입력을 처리하는 CRUD 기능 구현을 목표로 합니다. 성능 최적화와 UI 구성에도 중점을 두었습니다.
+
 ---
 
 ## 📌 주요 기능
@@ -14,21 +16,15 @@ React 기반으로 구현되었으며, 다양한 영화 정보와 사용자 리�
 
 ---
 
-## 📄 문서 보기
+## 📊 플로우차트
 
-👉 [PDF로 보기](https://github.com/chanO4135/front_reactProject/blob/main/chan_project.pdf)
+![플로우차트](images/image-8.png)
 
 ---
 
 ## 🎥 시연 영상
 
 ![시연영상](MovieDemo.gif)
-
----
-
-## 📊 플로우차트
-
-![플로우차트](images/image-8.png)
 
 ---
 
@@ -76,16 +72,8 @@ React 기반으로 구현되었으며, 다양한 영화 정보와 사용자 리�
 
 ---
 
-## 📁 기술 스택
+## 📄 문서 보기
 
-- React
-- React Router
-- SCSS
-- TMDB API
-- LocalStorage (리뷰 CRUD)
+👉 [PDF로 보기](https://github.com/chanO4135/front_reactProject/blob/main/chan_project.pdf)
 
 ---
-
-## 🧑‍💻 프로젝트 목적
-
-이 프로젝트는 React 기반 SPA를 통해 외부 API를 활용한 콘텐츠 탐색과, 사용자 입력을 처리하는 CRUD 기능 구현을 목표로 합니다. 성능 최적화와 UI 구성에도 중점을 두었습니다.
